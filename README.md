@@ -4,4 +4,5 @@ If we used this idea, then this is where character sheets, PDFs, graphics, etc. 
 
 ## Files
 * [Characters](./Characters)
+  * [Bob](./Characters/Bob.md) 
 * [Sessions](./Sessions)
